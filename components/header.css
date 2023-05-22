@@ -257,7 +257,7 @@
   .header-text {
     color: rgb(255, 255, 255);
     width: 292px;
-    height: 0px;
+    height: 9px;
     display: flex;
     font-size: 2.5em;
     align-self: flex-end;
@@ -285,7 +285,7 @@
     font-size: 1em;
   }
   .header-text4 {
-    height: 31px;
+    height: 10px;
     display: flex;
     font-size: 1.25rem;
     align-self: flex-end;
