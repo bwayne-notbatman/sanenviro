@@ -61,8 +61,9 @@
   color: #ffffff;
   font-size: 5rem;
   font-style: normal;
-  font-family: Open Sans;
-  font-weight: 900;
+  font-family: PT Sans;
+  font-weight: 700;
+  letter-spacing: 2px;
   text-transform: uppercase;
 }
 
@@ -102,8 +103,9 @@
     font-size: 4rem;
     font-style: normal;
     text-align: center;
-    font-family: Open Sans;
+    font-family: PT Sans;
     font-weight: 900;
+    letter-spacing: 4px;
     text-transform: uppercase;
   }
 }
@@ -150,9 +152,9 @@
     align-self: flex-start;
     font-style: normal;
     text-align: center;
-    font-family: Open Sans;
+    font-family: PT Sans;
     font-weight: 700;
-    letter-spacing: 1px;
+    letter-spacing: 4px;
     text-transform: uppercase;
   }
   .header-root-class-name {
@@ -1122,8 +1124,8 @@
   justify-content: center;
 }
 .home-container23 {
-  width: 303px;
-  height: 378px;
+  width: 327px;
+  height: 412px;
   display: flex;
   position: relative;
   align-self: flex-start;
@@ -1138,8 +1140,8 @@
   padding-bottom: var(--dl-space-space-doubleunit);
   background-size: cover;
   justify-content: center;
-  background-image: url("public/playground_assets/img_2515%20%5B1%5D-400w.jpg");
-  background-position: center;
+  background-image: url("public/playground_assets/1684761212188-400w.jpg");
+  background-position: top;
 }
 .home-container23:hover {
   transform: scale(1.04);
@@ -1387,7 +1389,7 @@
   .home-container23 {
     align-self: flex-start;
     background-size: cover;
-    background-image: url("public/playground_assets/img_2515%20%5B1%5D-400w.jpg");
+    background-image: url("public/playground_assets/1684761212188-400w.jpg");
   }
   .home-image3 {
     width: 1600px;
@@ -1676,7 +1678,7 @@
     flex-direction: row;
     background-size: cover;
     justify-content: center;
-    background-image: url("public/playground_assets/img_2515%20%5B1%5D-400w.jpg");
+    background-image: url("public/playground_assets/1684761212188-400w.jpg");
   }
   .home-image3 {
     width: 1200px;
@@ -2018,7 +2020,7 @@
   }
   .home-container23 {
     width: 295px;
-    height: 310px;
+    height: 332px;
     align-self: flex-start;
   }
   .home-container25 {
@@ -2378,8 +2380,11 @@
     flex-direction: column;
   }
   .home-container23 {
+    height: 386px;
     align-self: center;
     text-align: center;
+    background-size: cover;
+    background-image: url("public/playground_assets/1684761212188-400w.jpg");
   }
   .home-container25 {
     width: 100%;
@@ -2759,6 +2764,8 @@
     width: 275px;
     height: 373px;
     align-self: center;
+    background-size: cover;
+    background-image: url("public/playground_assets/1684761212188-400w.jpg");
   }
   .home-container25 {
     width: 100%;
